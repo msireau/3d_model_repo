@@ -1,2 +1,6 @@
-lacoste_2-4.jpg
-lacosteBB.scn
+chair.scn
+chair_DIFFUSE.png
+chair_METALLIC.png
+chair_NORMAL.png
+chair_ROUGHNESS.png
+chair_SHADOW.png

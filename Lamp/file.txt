@@ -1,2 +1,6 @@
-lacoste_2-4.jpg
-lacosteBB.scn
+lamp.scn
+lamp_DIFFUSE.png
+lamp_METALLIC.png
+lamp_NORMAL.png
+lamp_ROUGHNESS.png
+lamp_SHADOW.png

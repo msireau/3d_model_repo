@@ -1,2 +1,8 @@
-lacoste_2-4.jpg
-lacosteBB.scn
+cup.scn
+cup_AO.png
+cup_DIFFUSE.png
+cup_METALLIC.png
+cup_NORMAL.png
+cup_ROUGHNESS.png
+cup_SHADOW.png
+cup_steam_SPRITE.png
