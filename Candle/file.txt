@@ -1,0 +1,8 @@
+candle.scn
+candle_AO.png
+candle_DIFFUSE.png
+candle_METALLIC.png
+candle_NORMAL.png
+candle_ROUGHNESS.png
+candle_SHADOW.png
+flame_PARTICLE.png
